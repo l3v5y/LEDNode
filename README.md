@@ -1,4 +1,5 @@
 LEDNode
 =======
 
-A simple LED node for HouseMon
+A simple LED node for [housemon](http://github.com/jcw/housemon)
+
